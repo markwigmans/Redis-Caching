@@ -8,8 +8,8 @@ import org.springframework.cache.annotation.EnableCaching;
 @EnableCaching
 public class RedisCachingApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RedisCachingApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(RedisCachingApplication.class, args);
+    }
 
 }
