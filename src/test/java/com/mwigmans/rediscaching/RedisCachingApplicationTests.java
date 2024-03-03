@@ -1,4 +1,4 @@
-package com.ayush.rediscaching;
+package com.mwigmans.rediscaching;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
