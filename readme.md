@@ -1,4 +1,5 @@
-Inspired by the article on [Redis Cache for API Response Optimization](https://medium.com/@ayushjung63/redis-cache-for-api-response-optimization-54a508d9e79c).
+Inspired by the article [Redis Cache for API Response Optimization](https://medium.com/@ayushjung63/redis-cache-for-api-response-optimization-54a508d9e79c)
+I created a different, I think improved version.
 
 # Improvements
 The following improvements are made:
@@ -6,7 +7,7 @@ The following improvements are made:
 - use stable and latest Spring Boot version;
 - java 17 constructions used (record, ...)
 - Spring Cache used.
-- cache expires
+- cache expires.
 - parameters are configurable.
 
 ## Configuration
