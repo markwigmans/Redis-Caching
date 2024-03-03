@@ -1,0 +1,1 @@
+Inspired by the article on [Redis Cache for API Response Optimization](https://medium.com/@ayushjung63/redis-cache-for-api-response-optimization-54a508d9e79c).
