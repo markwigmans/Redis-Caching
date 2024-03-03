@@ -7,7 +7,7 @@ Here's a brief overview of the enhancements made:
 
 1. **Updated to Use the Latest Stable Spring Boot Version**: Ensures compatibility with the most recent features and security updates.
 2. **Leverage Java 17 Features**: Utilizes modern Java constructions such as records for more efficient and readable code.
-3. **Integration of Spring Cache**: Facilitates the use of caching mechanisms to improve performance.
+3. **Integration of Spring Cache**: Facilitates the use of caching mechanisms to improve performance and separate code from caching functionality.
 4. **Configurable Cache Expiration**: Allows for the dynamic setting of cache lifetimes to balance freshness and performance.
 5. **Flexible Configuration Options**: Parameters related to cache and method execution times can be easily adjusted.
 
